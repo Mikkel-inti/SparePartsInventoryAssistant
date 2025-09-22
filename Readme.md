@@ -12,4 +12,4 @@ Brugeren kan:
   - `PLC module`  
   - `servo motor`  
 - Hvis userinputtet ikke findes:
-  -'I am afraid we don’t have any {item} in the inventory'   
+    - `I am afraid we don’t have any {item} in the inventory`  
